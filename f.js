@@ -1,11 +1,13 @@
 const KET_QUA = 30;
 
 //DEM SO LAN MUA
-let dem = 1;
+let dem = 0;
+let kq = -1;
 
-while(getRandomIntInclusive(0, 99) != 30) {
-    //MUA TIEP
+while(kq != KET_QUA) {
+    kq = getRandomIntInclusive(0, 99);
     dem++;
+    console.log('LAN THU ' + dem + ': ' + kq);
 }
 
 console.log(dem);
