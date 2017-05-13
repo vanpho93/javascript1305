@@ -1,5 +1,5 @@
 let a = 5;
-
+a = 'Chao cac ban';
 // Khai bao hang b
 
 /*
