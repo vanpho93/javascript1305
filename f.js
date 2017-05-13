@@ -9,8 +9,13 @@ while(kq != KET_QUA) {
     dem++;
     console.log('LAN THU ' + dem + ': ' + kq);
 }
-
 console.log(dem);
+
+// for (;kq != KET_QUA;) {
+//   kq = getRandomIntInclusive(0, 99);
+//     dem++;
+//     console.log('LAN THU ' + dem + ': ' + kq);
+// }
 
 //IN SO LAN MUA
 function getRandomIntInclusive(min, max) {
