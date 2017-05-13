@@ -11,3 +11,5 @@ Xem trước: http://online.khoapham.vn/nodejs/85-lap-trinh-web-voi-nodejs-+-exp
 Javascript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 Github: http://online.khoapham.vn/nodejs/54-huong-dan-su-dung-github.html
+
+https://www.youtube.com/watch?v=8aGhZQkoFbQ
